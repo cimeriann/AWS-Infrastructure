@@ -1,1 +1,1 @@
-Managing my personal AWS account using terraform.
+This repository contains a demo infrastructure created using terraform.
